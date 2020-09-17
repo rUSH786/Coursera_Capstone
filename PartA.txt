@@ -1,0 +1,12 @@
+Seattle Traffic Accident Severity Prediction - Part 1
+1. Introduction
+    Accidents cause loss to life and property. Car accidents are considered as major share of reasons for death. Over the span of time Vehicles have improved and now become a necessity for us. But with this improvement now they have immence power in their engines. This power is controlled by the driver or the rider of the vehicle. If not controlled properly, this power may lead to undesirable tragedies. hence government and car manufacturers spend a huge ammount of money on safety measures and traffic rules and regulations. More severe the accident the more loss it causes. Hence proper analysis on the accident data can help us to determine the cause of severity of accidents.
+
+2. Business Problem
+    How to avoid or minimise injuries in an accident? The purpose of this project is to analyze the collision dataset for the city of Seattle and find out the factors affecting the severity of the accidents. By focusing on the prominent factors and working on them will help us to reduce the severity or number of accidents. Classification or Logistic Regression Models can br used to determine the relation and intensity respectively of the factors leading to severe accident in cars.
+
+3. Target Audience
+    This study mainly targets the government on how can the facilities or infrastructure be improved to avoid loss of life. Basic components like the quality of material or maintanence time or even trafic policies can be changed and improved based on the result of the study. other people who can be benefited from this study are car manufacturers and insurance agencies.
+    
+
+
