@@ -26,3 +26,5 @@ HITPARKEDCAR	| Whether or not the collision involved hitting a parked car. (Y/N)
 ---------------------------------------------------------------------------
 INCDTTM		| The date and time of the incident.
 ___________________________________________________________________________
+
+Effect of all these variables on the severity will be determined and then the solution can be give in statement form, from the results obtained.
